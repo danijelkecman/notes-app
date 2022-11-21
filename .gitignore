@@ -392,3 +392,4 @@ dist
 # mongodb
 .journal/
 .diagnostic.data/
+.mongodb/
