@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		69306AA5292AF86D0019BDE0 /* AddNoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69306AA4292AF86D0019BDE0 /* AddNoteView.swift */; };
+		69306AA7292C668F0019BDE0 /* UpdateNoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69306AA6292C668F0019BDE0 /* UpdateNoteView.swift */; };
 		69A6A7EB2929DB2800C163CF /* NotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A6A7EA2929DB2800C163CF /* NotesApp.swift */; };
 		69A6A7ED2929DB2800C163CF /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A6A7EC2929DB2800C163CF /* Home.swift */; };
 		69A6A7EF2929DB2900C163CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69A6A7EE2929DB2900C163CF /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* Begin PBXFileReference section */
 		69306AA3292AEE420019BDE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		69306AA4292AF86D0019BDE0 /* AddNoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNoteView.swift; sourceTree = "<group>"; };
+		69306AA6292C668F0019BDE0 /* UpdateNoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateNoteView.swift; sourceTree = "<group>"; };
 		69A6A7E72929DB2800C163CF /* Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Notes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		69A6A7EA2929DB2800C163CF /* NotesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesApp.swift; sourceTree = "<group>"; };
 		69A6A7EC2929DB2800C163CF /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				69A6A7EE2929DB2900C163CF /* Assets.xcassets */,
 				69A6A7F02929DB2900C163CF /* Preview Content */,
 				69306AA4292AF86D0019BDE0 /* AddNoteView.swift */,
+				69306AA6292C668F0019BDE0 /* UpdateNoteView.swift */,
 			);
 			path = Notes;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				69306AA5292AF86D0019BDE0 /* AddNoteView.swift in Sources */,
 				69A6A7ED2929DB2800C163CF /* Home.swift in Sources */,
 				69A6A7EB2929DB2800C163CF /* NotesApp.swift in Sources */,
+				69306AA7292C668F0019BDE0 /* UpdateNoteView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
